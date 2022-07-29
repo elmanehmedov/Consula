@@ -1,0 +1,48 @@
+.works {
+    padding: 3em 0; 
+}
+.work-qualities {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+    margin-top: 3rem;
+}
+.work-quality-sub-title {
+    font-size: 20px;
+    line-height: 1.6;
+}
+.work-quality-title{
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+    color: #808080;
+}
+.quality-item{
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+    color: #808080;
+   
+}
+.quality-item li{
+   
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 15px;
+    line-height: 1.5;
+}
+
+.ul-check.primary li:before {
+    color: #46ddb0;
+}
+
+.ul-check {
+    margin-bottom: 50px;
+}
+.quality-item li:before {
+    left: 0;
+    font-size: 20px;
+    top: -0.3rem;
+    font-family: "icomoon";
+    content: '✓';
+    position: absolute;
+}

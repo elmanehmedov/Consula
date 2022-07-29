@@ -1,0 +1,20 @@
+.footer-title {
+    background-color: #46ddb0;
+    height: 140px;align-items: center;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.footer-title  a{
+    text-align: center;
+    margin: 0 auto;
+    
+
+   }
+   .footer-title a span{
+   
+    font-size: 32px;
+    color: #fff;
+    text-align: center;
+   
+   }

@@ -1,0 +1,74 @@
+.wrapper {
+    padding: 5em 0;
+    /* margin: 0 250px; */
+    margin: auto;
+    width: 60%;
+
+}
+
+.about-us {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.about-us-img {
+    margin: 0 auto;
+    max-width: 500px;
+    max-height: 500px;
+    
+}
+.about-us-img-container {
+    position: relative;
+}
+
+.about.us-img img {
+    max-width: 100%;
+    max-height: 100%;
+}
+  .welcome{
+    width: 100%;
+    padding:0 4rem;
+     display: flex;
+     flex-direction: column;
+      justify-content: center;
+
+  }
+  .welcome-sub-title {
+    font-size: 13px;
+    color: #46ddb0;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+  }
+  .welcome-title {
+    color: #007bff;
+    font-size: 40px;
+    font-weight: 900;
+  }
+  .welcome-text {
+    color: #808080;
+     line-height: 2;
+    margin:1.5rem 0;
+  }
+
+  .experience {
+    position: absolute;
+    bottom: -10px;
+    right: -10px;
+    background: #007bff;
+    padding: 20px;
+  }
+  .experience .year {
+    font-weight: 900;
+    color: #fff;
+    font-size: 3rem;
+    letter-spacing: normal;
+    line-height: 1.2;
+}
+.experience .caption {
+    color: #fff;
+    letter-spacing: .4em;
+    text-transform: uppercase;
+
+}

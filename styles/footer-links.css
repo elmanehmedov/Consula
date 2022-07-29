@@ -1,0 +1,29 @@
+.footer-links{
+    padding: 5rem 10rem;
+    background: #333333;
+    height: 650px;
+}
+.footer-bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.footer-nav ul li {
+    line-height: 2.6;
+}
+.footer-about-us {
+    max-width: 300px;
+}
+.footer-links-title {
+    font-size: 16px;
+    margin-bottom: 1.5rem;
+    color: #fff;
+}
+.footer-follow .social-icons-list li a i {
+    color: #999999;
+    
+}
+.footer-follow .social-icons-list li a i:hover {
+    color: #fff;
+    
+}

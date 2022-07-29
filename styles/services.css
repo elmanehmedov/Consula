@@ -1,0 +1,44 @@
+.services {
+    width: 100% !important;
+    padding: 5em 0; 
+    background-color: #f8f9fa;
+    position: relative;
+}
+.service-header{
+    text-align: center;
+}
+.service-box{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+service-box :before {
+        left: 0;
+        font-size: 20px;
+        top: -0.3rem;
+        font-family: "icomoon";
+        content: '✓';
+        position: absolute;
+    }
+
+.service-content {
+    flex-grow: 1;
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    padding: 0 2rem;
+}
+.service-link  {
+    color: #46ddb0;
+    text-decoration: none;
+    margin-top: 1rem;
+}
+.service-head{
+    font-size: 20px;
+    
+}
+.service-text{
+    text-align: start;
+    max-width: 300px;
+} 
