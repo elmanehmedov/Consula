@@ -1,0 +1,24 @@
+.flex-blog{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.blog-box {
+    width: 350px ;
+    height: auto;
+    margin-right: 2rem;
+    line-height: 2;
+
+}
+.blog-box span {
+   margin-right: 1rem;
+  
+
+}
+.blog-box img {
+    width: 100%;
+}
+.blog-news{
+    margin-bottom: 2rem;
+}

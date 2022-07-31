@@ -47,8 +47,9 @@
     margin-bottom: 2rem;
      
 }
+
  .btn-primary {
-    width: 160px;
+    width: 200px;
     height: 50px;
     font-size: 15px;
     border-radius: 30px;
@@ -64,6 +65,35 @@
     color:#46ddb0 ;
 
 }
+.input-subscriber {
+    border-color: #fff;
+    background-color: #333333;
+    color: #fff;
+    border-top-right-radius: 0 !important;
+    border-bottom-right-radius: 0;
+    height: 2rem;
+    padding: 4px;
+    border-radius: 30px;
+    margin-right: -1rem;
+}
+.footer-border {
+    margin: 3rem 0;
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #edf0f5 ; /* old IE */
+    background-color:   #edf0f5 ;; /* Modern Browsers */
+
+}
+.all-right {
+    text-align: center;
+    color: #737373;
+}
+.all-right a {
+    color: #edf0f5;
+}
+
+
 
 
 

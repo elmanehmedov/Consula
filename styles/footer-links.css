@@ -27,3 +27,14 @@
     color: #fff;
     
 }
+
+.btn-subscriber {
+    font-size: 15px;
+    border-radius: 30px;
+    padding: 12px 35px;
+    background: #46ddb0;
+    border-top-left-radius: 0; 
+     border-bottom-left-radius: 0;
+    color: #000; 
+}
+
